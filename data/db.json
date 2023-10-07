@@ -1,0 +1,126 @@
+{
+    "uzbek_taomlari": [
+        {
+            "id": 1,
+            "title": "Osh",
+            "ingredients": "Sabzi, piyoz, yog', guruch, tuz murch",
+            "image": "Osh.jpg",
+            "method": "Birinchi bo'lib qozonga yog'ni quyamiz, so'ngra piyozni solamiz...",
+            "cookingTime": "45 minut"
+        },
+        {
+            "id": 2,
+            "title": "Manti",
+            "ingredients": "Go'sht, un, piyoz, qatiq, tuz, qalampir",
+            "image": "Manti.jpg",
+            "method": "Go'shti, piyozni yiqaymiz va tozalaymiz, so'ngra yirik un bilan qalin qovoqni tayyorlaymiz...",
+            "cookingTime": "1 soat"
+        },
+        {
+            "id": 3,
+            "title": "Lagmon",
+            "ingredients": "Go'sht, soch, un, piyoz, sabzi, tuz",
+            "image": "Lagmon.jpg",
+            "method": "Go'shti sochdan yong'oq xilma xil qirib, piyozni solaymiz, so'ngra qalin unli qovoqni tayyorlaymiz...",
+            "cookingTime": "1 soat 30 minut"
+        },
+        {
+            "id": 4,
+            "title": "Mastava",
+            "ingredients": "Go'sht, qovoq, guruch, piyoz, kartoshka, sabzi, tuz",
+            "image": "Mastava.jpg",
+            "method": "Go'shtni qaynatab olamiz, so'ngra piyoz va kartoshkalarni solaymiz...",
+            "cookingTime": "2 soat"
+        },
+        {
+            "id": 5,
+            "title": "Shashlik",
+            "ingredients": "Tovuq go'shti, qatiq, piyoz, qalampir, tuz, zira",
+            "image": "Shashlik.jpg",
+            "method": "Go'shtni qaynatab olamiz, so'ngra piyoz bilan birlashtiramiz va qatiqda terimiz...",
+            "cookingTime": "1 soat"
+        },
+        {
+            "id": 6,
+            "title": "Norin",
+            "ingredients": "Go'sht, soch, piyoz, sabzi, zereshk, tuz",
+            "image": "Norin.jpg",
+            "method": "Go'shti sochdan yong'oq xilma xil qirib, piyozni solaymiz, so'ngra sabzi bilan birlashtiramiz...",
+            "cookingTime": "1 soat 30 minut"
+        },
+        {
+            "id": 7,
+            "title": "Somsa",
+            "ingredients": "Go'sht, un, piyoz, qalampir, tuz, zira",
+            "image": "Somsa.jpg",
+            "method": "Go'shti yong'oq xilma xil qirib, piyozni solaymiz, so'ngra unli qovoqni tayyorlaymiz...",
+            "cookingTime": "1 soat"
+        },
+        {
+            "id": 8,
+            "title": "Shurva",
+            "ingredients": "Go'sht, piyoz, kartoshka, sabzi, tuz, zira",
+            "image": "Shurva.jpg",
+            "method": "Go'shtni qaynatab olamiz, so'ngra piyoz bilan birlashtiramiz va kartoshkalarni solaymiz...",
+            "cookingTime": "2 soat"
+        },
+        {
+            "id": 9,
+            "title": "Dimlama",
+            "ingredients": "Go'sht, guruch, sabzi, g'uvurma, kartoshka, garam masala, zira, tuz",
+            "image": "Dimlama.jpg",
+            "method": "Go'shti qaynatab olamiz, so'ngra g'uvurmani solaymiz, sabzini qo'shamiz va garam masala bilan aromat beramiz...",
+            "cookingTime": "1 soat 30 minut"
+        },
+        {
+            "id": 10,
+            "title": "Lepeshka",
+            "ingredients": "Un, maya, yog', guruch, tuz, to'qay",
+            "image": "Lepeshka.jpg",
+            "method": "Un va mayani suv bilan aralashtiramiz, so'ngra yog' va tuzni qo'shamiz va to'qay bilan yo'ramiz...",
+            "cookingTime": "2 soat"
+        }
+    ],
+    "recipes": [
+        {
+            "id": "1",
+            "title": "Veggie Stew",
+            "ingredients": [
+                "1 Carrot",
+                "1 Leek",
+                "200g Tofu",
+                "300ml Veg stock"
+            ],
+            "image": "Stew.jpg",
+            "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+            "cookingTime": "45 minutes"
+        },
+        {
+            "id": "2",
+            "title": "Veggie Pizza",
+            "ingredients": [
+                "1 Base",
+                "Tomata pasata",
+                "1 Green pepper",
+                "100g Mushrooms"
+            ],
+            "image": "Pizza.jpg",
+            "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+            "cookingTime": "35 minutes"
+        },
+        {
+            "id": "3",
+            "title": "Greek Salad",
+            "ingredients": [
+                "1 Onion",
+                "1 Block of Feta",
+                "Olives",
+                "Tomatoes",
+                "Olive Oil"
+            ],
+            "image": "Salad.jpg",
+            "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+            "cookingTime": "35 minutes"
+        }
+    ]
+}

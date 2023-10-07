@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer {
+    .container {
+        @apply max-w-6xl mx-auto px-8;
+    }
+}
+
+a.active {
+    @apply btn btn-neutral;
+}
