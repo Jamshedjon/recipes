@@ -17,6 +17,7 @@ function Navbar() {
             return prev == "light" ? "dark" : "light";
         });
     };
+    const online = JSON.parse(localStorage.getItem("user"));
     return (
         <nav className="py-6  bg-orange-300 shadow-md fixed top-0 left-0 right-0  z-50">
             <div className="container flex justify-between">
@@ -32,6 +33,17 @@ function Navbar() {
                     </NavLink>
                     <NavLink className="  btn btn-outline " to="/">
                         Home
+                    </NavLink>
+                    {!online && (
+                        <label
+                            htmlFor="my_modal_sign_up"
+                            className="btn btn-outline"
+                        >
+                            Sign up
+                        </label>
+                    )}
+                    <NavLink className="  btn btn-outline " to="/users">
+                        Users
                     </NavLink>
                 </div>
             </div>

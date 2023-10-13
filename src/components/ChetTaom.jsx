@@ -1,17 +1,18 @@
 import { useParams, Link } from "react-router-dom";
 import { useFetch } from "../hooks/useFetch";
+import { URL } from "../API";
 
 function Taom() {
     const { id } = useParams();
-    const url = "http://localhost:3000/recipes/" + id;
-    const { data: taom, isPanding, error } = useFetch(url);
+    const url = URL + "recipes/" + id;
+    const { data: taom, isPending, error, postNewDate } = useFetch(url);
 
     return (
         <>
             {taom && (
                 <div
                     className="hero h-[75vh]"
-                    style={{ backgroundImage: `url(/${taom.image})` }}
+                    style={{ backgroundImage: `url(${taom.image})` }}
                 >
                     <div className="hero-overlay bg-opacity-60"></div>
                     <div className="hero-content text-center text-neutral-content">

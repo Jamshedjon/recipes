@@ -11,10 +11,15 @@ function Preview({ data }) {
             <div className="hero-content text-center text-neutral-content">
                 <div className="w-full text-white ">
                     <h1 className="mb-5 text-2xl font-bold md:text-3xl lg:text-6xl ">
-                        {data.tite}
+                        {data.title}
                     </h1>
                     <p className="  text-xl italic md:text-3xl lg:text-4xl">
-                        Ingradients: {data.ingradients}
+                        Ingradients:{" "}
+                        {data.ingradients
+                            ? data.ingradients.map((ing) => {
+                                  return <span key={ing}>{ing}, </span>;
+                              })
+                            : data.ingradients}
                     </p>
                     <p className=" text-justify my-5 text-xl md:text-2xl lg:text-3xl">
                         Method: {method}

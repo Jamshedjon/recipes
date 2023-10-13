@@ -3,80 +3,140 @@
         {
             "id": 1,
             "title": "Osh",
-            "ingredients": "Sabzi, piyoz, yog', guruch, tuz murch",
-            "image": "Osh.jpg",
+            "ingredients": [
+                "1 Onion",
+                "1 Block of Feta",
+                "Olives",
+                "Tomatoes",
+                "Olive Oil"
+            ],
+            "image": "https://halaldastarkhan.com/wp-content/uploads/2020/06/Website-214.jpg",
             "method": "Birinchi bo'lib qozonga yog'ni quyamiz, so'ngra piyozni solamiz...",
             "cookingTime": "45 minut"
         },
         {
             "id": 2,
             "title": "Manti",
-            "ingredients": "Go'sht, un, piyoz, qatiq, tuz, qalampir",
-            "image": "Manti.jpg",
+            "ingredients": [
+                "1 Onion",
+                "1 Block of Feta",
+                "Olives",
+                "Tomatoes",
+                "Olive Oil"
+            ],
+            "image": "https://petersfoodadventures.com/wp-content/uploads/2016/05/Manti-2-1024x768.png",
             "method": "Go'shti, piyozni yiqaymiz va tozalaymiz, so'ngra yirik un bilan qalin qovoqni tayyorlaymiz...",
             "cookingTime": "1 soat"
         },
         {
             "id": 3,
             "title": "Lagmon",
-            "ingredients": "Go'sht, soch, un, piyoz, sabzi, tuz",
-            "image": "Lagmon.jpg",
+            "ingredients": [
+                "1 Onion",
+                "1 Block of Feta",
+                "Olives",
+                "Tomatoes",
+                "Olive Oil"
+            ],
+            "image": "https://t3.ftcdn.net/jpg/02/98/86/08/360_F_298860809_U6qAwVchYSmjddalk2Hei2BuAWeqwmTH.jpg",
             "method": "Go'shti sochdan yong'oq xilma xil qirib, piyozni solaymiz, so'ngra qalin unli qovoqni tayyorlaymiz...",
             "cookingTime": "1 soat 30 minut"
         },
         {
             "id": 4,
             "title": "Mastava",
-            "ingredients": "Go'sht, qovoq, guruch, piyoz, kartoshka, sabzi, tuz",
-            "image": "Mastava.jpg",
+            "ingredients": [
+                "1 Onion",
+                "1 Block of Feta",
+                "Olives",
+                "Tomatoes",
+                "Olive Oil"
+            ],
+            "image": "https://i2.wp.com/rusuz.com/wp-content/uploads/2017/09/Mastava-scaled.jpg?fit=1200%2C800&ssl=1",
             "method": "Go'shtni qaynatab olamiz, so'ngra piyoz va kartoshkalarni solaymiz...",
             "cookingTime": "2 soat"
         },
         {
             "id": 5,
             "title": "Shashlik",
-            "ingredients": "Tovuq go'shti, qatiq, piyoz, qalampir, tuz, zira",
-            "image": "Shashlik.jpg",
+            "ingredients": [
+                "1 Onion",
+                "1 Block of Feta",
+                "Olives",
+                "Tomatoes",
+                "Olive Oil"
+            ],
+            "image": "https://www.shanazrafiq.com/wp-content/uploads/2022/05/Chicken-Seekh-Kabab.jpg",
             "method": "Go'shtni qaynatab olamiz, so'ngra piyoz bilan birlashtiramiz va qatiqda terimiz...",
             "cookingTime": "1 soat"
         },
         {
             "id": 6,
             "title": "Norin",
-            "ingredients": "Go'sht, soch, piyoz, sabzi, zereshk, tuz",
-            "image": "Norin.jpg",
+            "ingredients": [
+                "1 Onion",
+                "1 Block of Feta",
+                "Olives",
+                "Tomatoes",
+                "Olive Oil"
+            ],
+            "image": "https://www.centralasia-travel.com/uploads/gallery/1226/naryn-01.jpg",
             "method": "Go'shti sochdan yong'oq xilma xil qirib, piyozni solaymiz, so'ngra sabzi bilan birlashtiramiz...",
             "cookingTime": "1 soat 30 minut"
         },
         {
             "id": 7,
             "title": "Somsa",
-            "ingredients": "Go'sht, un, piyoz, qalampir, tuz, zira",
-            "image": "Somsa.jpg",
+            "ingredients": [
+                "1 Onion",
+                "1 Block of Feta",
+                "Olives",
+                "Tomatoes",
+                "Olive Oil"
+            ],
+            "image": "https://i0.wp.com/thefoodhog.com/wp-content/uploads/2021/01/uzbek-samsa.jpg",
             "method": "Go'shti yong'oq xilma xil qirib, piyozni solaymiz, so'ngra unli qovoqni tayyorlaymiz...",
             "cookingTime": "1 soat"
         },
         {
             "id": 8,
             "title": "Shurva",
-            "ingredients": "Go'sht, piyoz, kartoshka, sabzi, tuz, zira",
-            "image": "Shurva.jpg",
+            "ingredients": [
+                "1 Onion",
+                "1 Block of Feta",
+                "Olives",
+                "Tomatoes",
+                "Olive Oil"
+            ],
+            "image": "https://thumbs.dreamstime.com/z/kovurma-shorva-traditional-uzbek-soup-shurpa-37279493.jpg",
             "method": "Go'shtni qaynatab olamiz, so'ngra piyoz bilan birlashtiramiz va kartoshkalarni solaymiz...",
             "cookingTime": "2 soat"
         },
         {
             "id": 9,
             "title": "Dimlama",
-            "ingredients": "Go'sht, guruch, sabzi, g'uvurma, kartoshka, garam masala, zira, tuz",
-            "image": "Dimlama.jpg",
+            "ingredients": [
+                "1 Onion",
+                "1 Block of Feta",
+                "Olives",
+                "Tomatoes",
+                "Olive Oil"
+            ],
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Dimlama_%2816425713838%29.jpg",
             "method": "Go'shti qaynatab olamiz, so'ngra g'uvurmani solaymiz, sabzini qo'shamiz va garam masala bilan aromat beramiz...",
             "cookingTime": "1 soat 30 minut"
         },
         {
             "id": 10,
-            "title": "Lepeshka",
-            "ingredients": "Un, maya, yog', guruch, tuz, to'qay",
-            "image": "Lepeshka.jpg",
+            "title": "Non",
+            "ingredients": [
+                "1 Onion",
+                "1 Block of Feta",
+                "Olives",
+                "Tomatoes",
+                "Olive Oil"
+            ],
+            "image": "https://c8.alamy.com/comp/W0X8MF/uzbekistan-uzbek-bread-non-or-lepeshka-W0X8MF.jpg",
             "method": "Un va mayani suv bilan aralashtiramiz, so'ngra yog' va tuzni qo'shamiz va to'qay bilan yo'ramiz...",
             "cookingTime": "2 soat"
         }
@@ -91,7 +151,7 @@
                 "200g Tofu",
                 "300ml Veg stock"
             ],
-            "image": "Stew.jpg",
+            "image": "https://theveglife.com/wp-content/uploads/2014/11/Vegetable-Stew-SHARPER.jpg",
             "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
             "cookingTime": "45 minutes"
         },
@@ -104,7 +164,7 @@
                 "1 Green pepper",
                 "100g Mushrooms"
             ],
-            "image": "Pizza.jpg",
+            "image": "https://www.killingthyme.net/wp-content/uploads/2020/09/veggie-deluxe-pizza-5-500x500.jpg",
             "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
             "cookingTime": "35 minutes"
         },
@@ -118,9 +178,116 @@
                 "Tomatoes",
                 "Olive Oil"
             ],
-            "image": "Salad.jpg",
+            "image": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2018/08/Greek-Salad-main.jpg",
             "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
             "cookingTime": "35 minutes"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "jamshid",
+            "password": "jamshedjon"
+        },
+        {
+            "id": 2,
+            "username": "Fawn",
+            "passwors": "89.176.153.219"
+        },
+        {
+            "id": 3,
+            "username": "Cairistiona",
+            "passwors": "152.182.5.134"
+        },
+        {
+            "id": 4,
+            "username": "Alanah",
+            "passwors": "64.2.52.247"
+        },
+        {
+            "id": 5,
+            "username": "Ashlen",
+            "passwors": "242.138.126.38"
+        },
+        {
+            "id": 6,
+            "username": "Corabel",
+            "passwors": "240.209.8.140"
+        },
+        {
+            "id": 7,
+            "username": "Berrie",
+            "passwors": "242.101.96.198"
+        },
+        {
+            "id": 8,
+            "username": "Rozalin",
+            "passwors": "29.167.45.30"
+        },
+        {
+            "id": 9,
+            "username": "Wilma",
+            "passwors": "238.231.81.15"
+        },
+        {
+            "id": 10,
+            "username": "Hattie",
+            "passwors": "76.127.250.102"
+        },
+        {
+            "id": 11,
+            "username": "Shayne",
+            "passwors": "230.40.66.10"
+        },
+        {
+            "id": 12,
+            "username": "Roxie",
+            "passwors": "140.173.124.149"
+        },
+        {
+            "id": 13,
+            "username": "Bank",
+            "passwors": "33.19.244.236"
+        },
+        {
+            "id": 14,
+            "username": "Remus",
+            "passwors": "81.252.204.51"
+        },
+        {
+            "id": 15,
+            "username": "Pia",
+            "passwors": "128.169.102.143"
+        },
+        {
+            "id": 16,
+            "username": "Micky",
+            "passwors": "207.185.133.123"
+        },
+        {
+            "id": 17,
+            "username": "Leigh",
+            "passwors": "110.32.186.86"
+        },
+        {
+            "id": 18,
+            "username": "Candace",
+            "passwors": "167.216.247.129"
+        },
+        {
+            "id": 19,
+            "username": "Hadley",
+            "passwors": "255.185.131.161"
+        },
+        {
+            "id": 20,
+            "username": "Joaquin",
+            "passwors": "177.71.87.211"
+        },
+        {
+            "username": "jamol",
+            "password": "sdsadas",
+            "id": 21
         }
     ]
 }

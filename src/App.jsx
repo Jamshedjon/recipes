@@ -7,7 +7,7 @@ import UzbekTaomlari from "./pages/UzbekTaomlari";
 import ChetelTaomlari from "./pages/ChetelTaomlari";
 import Error from "./components/Error";
 import CreateRecipes from "./pages/CreateRecipes";
-
+import UserList from "./pages/UserList";
 function App() {
     const routes = createBrowserRouter([
         {
@@ -38,6 +38,10 @@ function App() {
                 {
                     path: "/chet/:id",
                     element: <ChetTaom />,
+                },
+                {
+                    path: "/users",
+                    element: <UserList />,
                 },
             ],
         },

@@ -1,12 +1,15 @@
 import { useFetch } from "../hooks/useFetch";
 import TaomlarList from "../components/TaomlarList";
+import { URL } from "../API";
 
 function UzbekTaomlari() {
     const {
         data: taomlar,
         isPanding,
         error,
-    } = useFetch("http://localhost:3000/uzbek_taomlari");
+        postNewDate,
+    } = useFetch(URL + "uzbek_taomlari");
+
     return (
         <div>{taomlar && <TaomlarList taomlar={taomlar} tur={"uzb"} />}</div>
     );
