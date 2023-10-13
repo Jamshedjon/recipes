@@ -56,6 +56,7 @@ function Home() {
             localStorage.setItem("user", JSON.stringify(data));
         } else {
             postNewDate(data);
+            localStorage.setItem("user", JSON.stringify(data));
         }
     };
     useEffect(() => {
